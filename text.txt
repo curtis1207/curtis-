@@ -1,0 +1,4 @@
+push(de votre machine vers le serveur)
+pull(du serveur vers votre machine)
+
+serveur central
